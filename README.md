@@ -1,13 +1,13 @@
-## Face_Recognition_System
+# Face_Recognition_System
 In this project we have basically created a Attendence Based Recognition Sysytem Desktop App.
 
-# Requirements:
+## Requirements:
 1.Image data
 2.Face Detetction Algo: MTCNN
 3.Face Recognition Algo:Arcface
 4.Desktop Application Building: Tkinter
 
-# Technology Stack:
+## Technology Stack:
 1.Programming Languages: python 3.6/3.7
 2.Deep Learning Framework: MXNET , Keras
 3.Desktop App: Tkinter
