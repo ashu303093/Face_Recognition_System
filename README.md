@@ -11,7 +11,7 @@ In this project we have basically created a Attendence Based Recognition Sysytem
 4.Desktop Application Building: Tkinter
 
 ## Technology Stack:
-1.Programming Languages: python 3.6/3.7
+1.Programming Languages: python 3.6
 
 2.Deep Learning Framework: MXNET , Keras
 
