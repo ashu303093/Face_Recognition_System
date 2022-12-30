@@ -1,5 +1,5 @@
 # Face_Recognition_System
-In this project we have basically created a Attendence Based Recognition Sysytem Desktop App.
+In this project we have basically created a Vision Based Attendence Sysytem Desktop App.
 
 ## Requirements:
 1.Image data
